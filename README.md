@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+
 Genios Consulting , es una forma mexicana de consultoria y comercializadora que hace mas de una decada impulsa la creacion,
 desarollo y consolidacion de proyectos e ideas de negocio.
 Ademas de brindar servicios a pequeñas, medianas y grndes empreseas para genera valor a traves de los servicios
