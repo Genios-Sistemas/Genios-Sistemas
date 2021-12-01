@@ -1,4 +1,4 @@
-
+![alt text](https://raw.githubusercontent.com/Genios-Sistemas/Genios-Sistemas/main/WhatsApp%20Image%202021-12-01%20at%2010.10.14.jpeg)
 Genios Consulting , es una forma mexicana de consultoria y comercializadora que hace mas de una decada impulsa la creacion,
 desarollo y consolidacion de proyectos e ideas de negocio.
 Ademas de brindar servicios a pequeñas, medianas y grndes empreseas para genera valor a traves de los servicios
